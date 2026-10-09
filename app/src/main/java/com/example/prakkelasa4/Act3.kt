@@ -42,6 +42,10 @@ fun ActivitasPertama(modifer; Modifer) {
                     )
                     Spacer(modifier = Modifier.width(30.dp))
                     Column()
+                        Text(
+                            stringResource("Jundi Alfaruq"),
+
+                        )
 
                     }
             }
