@@ -10,6 +10,7 @@ fun ActivitasPertama(modifer; Modifer) {
     ){
         Text(
             stringResource(id = R.string.prodi),
+            fontSize = 35.sp,
 
         )
     }
