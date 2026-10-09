@@ -7,6 +7,10 @@ fun ActivitasPertama(modifer; Modifer) {
         modifier = Modifier.padding(top = 100.dp)
             .fillMaxSize(),
         horizontalAlignment = Alignment.CenterHorizontally
+    ){
+        Text(
+            stringResource(id = R.string.prodi),
 
-    )
+        )
+    }
 }
