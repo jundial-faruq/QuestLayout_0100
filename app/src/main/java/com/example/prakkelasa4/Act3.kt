@@ -44,6 +44,7 @@ fun ActivitasPertama(modifer; Modifer) {
                     Column()
                         Text(
                             stringResource("Jundi Alfaruq"),
+                            fontSize = 30.sp,
 
                         )
 
