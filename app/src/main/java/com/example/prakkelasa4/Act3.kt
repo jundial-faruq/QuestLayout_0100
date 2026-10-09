@@ -1,5 +1,6 @@
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
+import androidx.compose.ui.text.font.FontWeight
 
 @Composable
 fun ActivitasPertama(modifer; Modifer) {
@@ -11,6 +12,7 @@ fun ActivitasPertama(modifer; Modifer) {
         Text(
             stringResource(id = R.string.prodi),
             fontSize = 35.sp,
+            fontWeight = FontWeight.Bold
 
         )
     }
