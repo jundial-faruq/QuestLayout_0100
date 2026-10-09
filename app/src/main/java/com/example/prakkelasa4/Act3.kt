@@ -45,6 +45,7 @@ fun ActivitasPertama(modifer; Modifer) {
                         Text(
                             stringResource("Jundi Alfaruq"),
                             fontSize = 30.sp,
+                            fontFamily = FontFamily.cursive,
 
                         )
 
